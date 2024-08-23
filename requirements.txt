@@ -1,0 +1,4 @@
+pyside6
+PyQt6-tools
+python-dotenv
+mysql-connector-python
